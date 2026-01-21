@@ -1,22 +1,4 @@
-# MSK Wealth Management AI Portal
 
-A production-grade Retrieval-Augmented Generation (RAG) system designed for financial advisors, featuring cross-region reranking, hybrid search, and hierarchical chunking to deliver highly accurate, source-attributed responses from client documents and company policies.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Key Features](#key-features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technical Deep Dive](#technical-deep-dive)
-- [Troubleshooting](#troubleshooting)
-- [Security Considerations](#security-considerations)
-- [Performance Benchmarks](#performance-benchmarks)
-- [Future Enhancements](#future-enhancements)
 
 ## Overview
 
